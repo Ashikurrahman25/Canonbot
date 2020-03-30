@@ -8,7 +8,7 @@ Email : support@hurtlebee.com
 Just Open The commentbox.exe from the (bin\Release\netcoreapp3.1) and input the required info.
 You must have a good broadband connection to run this.
 
-<h1>Contributors<h1>
+<h1>Contributors</h1>
   
 >Srejon Khan
 

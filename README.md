@@ -37,5 +37,5 @@ Instagram: https://instagram.com/electronicbrainteam
 
 Have a Nice Day.
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+

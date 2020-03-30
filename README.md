@@ -1,4 +1,5 @@
-<h1>Comment Bot<h1>
+<h1>Comment Bot</h1>
+
 Automated Comment On Any Accessible Post
 
 Email : support@hurtlebee.com

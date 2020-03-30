@@ -4,7 +4,7 @@ Automated Comment On Any Accessible Post
 
 Email : support@hurtlebee.com
 
-How to use
+<h1>How to use</h1>
 Just Open The commentbox.exe from the (bin\Release\netcoreapp3.1) and input the required info.
 You must have a good broadband connection to run this.
 

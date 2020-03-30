@@ -16,7 +16,7 @@ Game Programmer, HurtleBee
 
 Using Unity over 4 years. Use C# and PHP,MySQL for backend. Worked on various client project and games. Worked as Assistant programmer in DR.Paedi and Lead Programmer in Last Breath.
 
->Ashikur Rahman
+>**Ashikur Rahman**
 
 Game Programmer, HurtleBee
 

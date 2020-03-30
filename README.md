@@ -8,20 +8,21 @@ Email : support@hurtlebee.com
 Just Open The commentbox.exe from the (bin\Release\netcoreapp3.1) and input the required info.
 You must have a good broadband connection to run this.
 
-Contributors
-Srejon Khan
+<h1>Contributors<h1>
+  
+#Srejon Khan
 
 Game Programmer, HurtleBee
 
 Using Unity over 4 years. Use C# and PHP,MySQL for backend. Worked on various client project and games. Worked as Assistant programmer in DR.Paedi and Lead Programmer in Last Breath.
 
-Ashikur Rahman
+#Ashikur Rahman
 
 Game Programmer, HurtleBee
 
 Using Unity over 3 years. Use C# and PHP,MySQL for backend.Worked on various client project and games. Successfull Lead Programmer in DR.Paedi and Assistant Programmer in Last Breath.
 
-Support
+<h1>Support<h1>
 Donate us for developing any project without any trouble. We need more Programmers and Artists to work on various project and gifting something better to everyone. (All the money you donate is spent for Developing and Electronic Brain and not for any personal uses.)
 
 Support Us at Patreon: https://www.patreon.com/ElectronicBrain
